@@ -1,0 +1,4 @@
+C:\Users\mende\source\repos\BinaryTreeProject\Debug\BinaryTreeProject.exe
+C:\Users\mende\source\repos\BinaryTreeProject\Debug\BinaryTreeProject.pdb
+C:\Users\mende\Downloads\BinaryTreeProject\BinaryTreeProject\Debug\BinaryTreeProject.exe
+C:\Users\mende\Downloads\BinaryTreeProject\BinaryTreeProject\Debug\BinaryTreeProject.pdb

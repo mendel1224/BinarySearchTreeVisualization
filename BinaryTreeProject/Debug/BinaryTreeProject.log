@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\mende\Downloads\BinaryTreeProject\BinaryTreeProject\Source.cpp(32,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BinaryTreeProject.vcxproj -> C:\Users\mende\Downloads\BinaryTreeProject\BinaryTreeProject\Debug\BinaryTreeProject.exe
