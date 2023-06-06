@@ -1,2 +1,2 @@
 # BinarySearchTreeVisualization
-Visualizes a binary search tree. Prints contents in various outputs
+Binary tree visualization project. Reads data from input file and prints a visual representation of the binary tree. Various traversal methods and their outputs are included as well.
